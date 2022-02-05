@@ -1,18 +1,13 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
     introTitle: '',
-    introDesc: `Trên trời hàng triệu vì sao
-    
-    Xếp thành bốn chữ vì sao yêu người
-    
-    Trái đất hàng triệu con người
-    
-    Nhưng sao chỉ có một người tôi yêu🥰`,
+    introDesc: `
+    Trái đất hàng triệu con người                             Nhưng sao chỉ có một người tôi yêu🥰`,
     btnIntro: '^^HiHi^^',
     desc: 'Tớ luôn yêu cậu bằng thứ tình cảm chân thành nhất, "cậu có làm NY tớ không?" từ lâu tớ đã muốn hỏi cậu điều này nhưng không dám vì đứng trước người con gái mình yêu trái tim tớ như dừng nhịp🥰',
     
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
+    btnYes: 'Chắc chắn mình sẽ chấp nhận nhé',
+    btnNo: 'Xin lỗi nhưng chúng ta không hợp nhau đâu',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
