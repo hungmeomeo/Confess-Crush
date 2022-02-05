@@ -1,9 +1,12 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    introTitle: '',
     introDesc: `Trên trời hàng triệu vì sao
-    Xếp thành bốn chữ vì sao yên người
+    
+    Xếp thành bốn chữ vì sao yêu người
+    
     Trái đất hàng triệu con người
+    
     Nhưng sao chỉ có một người tôi yêu🥰`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
