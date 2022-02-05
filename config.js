@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Tiêu đề web",
     introTitle: '',
     introDesc: `
-    Trái đất hàng triệu con người                             Nhưng sao chỉ có một người tôi yêu🥰`,
+    Trái đất hàng triệu con người nhưng sao chỉ có một người tôi yêu🥰`,
     btnIntro: '^^HiHi^^',
     desc: 'Tớ luôn yêu cậu bằng thứ tình cảm chân thành nhất, "cậu có làm NY tớ không?" 🥰',
     
