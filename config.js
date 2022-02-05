@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `
     Trái đất hàng triệu con người nhưng sao chỉ có một người tôi yêu🥰`,
     btnIntro: '^^HiHi^^',
-    desc: 'Tớ luôn yêu cậu bằng thứ tình cảm chân thành nhất, "cậu có làm NY tớ không?" 🥰',
+    desc: 'Tớ hỏi cậu cái này nhé, "cậu có làm NY tớ không?" 🥰',
     
     btnYes: 'Chắc chắn mình sẽ chấp nhận nhé',
     btnNo: 'Xin lỗi nhưng chúng ta không hợp nhau đâu',
