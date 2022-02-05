@@ -9,8 +9,8 @@ const CONFIG = {
     
     Nhưng sao chỉ có một người tôi yêu🥰`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    desc: 'Tớ luôn yêu cậu bằng thứ tình cảm chân thành nhất, "cậu có làm NY tớ không?" từ lâu tớ đã muốn hỏi cậu điều này nhưng không dám vì đứng trước người con gái mình yêu trái tim tớ như dừng nhịp🥰',
+    
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
