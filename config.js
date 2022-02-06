@@ -7,8 +7,8 @@ const CONFIG = {
     title: 'Phải chăng tôi đã yêu ngay từ cái nhìn đầu tiên',
     desc: 'Tớ hỏi cậu cái này nhé, "cậu có làm NY tớ không?" 🥰',
     
-    btnYes: 'Chắc chắn mình sẽ chấp nhận nhé',
-    btnNo: 'Xin lỗi nhưng chúng ta không hợp nhau đâu',
+    btnYes: 'Oki nha 😘',
+    btnNo: 'Không nhé 🙂',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho người ấy <3',
     reply: 'I love you too',
